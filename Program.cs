@@ -1,7 +1,7 @@
 /*
- ----------Diyari ismaeil----------
- ----Iraqi dinar classification----
- ------------15\12\2020------------
+ ----------Diyari ismaeil-----------
+ ------Iraqi dinar recognition------
+ ------------15\12\2020-------------
 */
 using Keras;
 using Keras.Models;
@@ -12,7 +12,7 @@ using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 
-namespace IQD_Classification
+namespace IQD_Recognition
 {
     class Program
     {
